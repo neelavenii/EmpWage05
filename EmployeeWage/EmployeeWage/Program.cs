@@ -17,6 +17,7 @@ namespace EmployeeWage
             PartTime.EmployeeWage();
             EmployeeSwitch.EmployeeSwitch1();
             MonthWages.MonthlyWages();
+            MaxDays.Max();
 
 
             Console.ReadLine();

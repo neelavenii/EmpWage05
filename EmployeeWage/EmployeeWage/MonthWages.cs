@@ -37,7 +37,7 @@ namespace EmployeeWage
                         break;
                 }
                 empWage = empHrs * EMP_RATE_PER_HR;
-                Console.WriteLine("DailyWage{0}", empWage);
+                Console.WriteLine("Daily Wage{0} ", empWage);
                 totalEmpWage += empWage;
             }
             Console.WriteLine("Total wage for {0} days is :{1}", NUM_OF_WORKING_DAYS,totalEmpWage);
