@@ -16,6 +16,7 @@ namespace EmployeeWage
             employeeWage.Empwage();
             PartTime.EmployeeWage();
             EmployeeSwitch.EmployeeSwitch1();
+            MonthWages.MonthlyWages();
 
 
             Console.ReadLine();
