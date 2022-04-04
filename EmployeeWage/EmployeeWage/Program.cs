@@ -12,6 +12,8 @@ namespace EmployeeWage
         {
             Console.WriteLine("Welcome to employee wage computation ");
             EmployeeAttendence.Employee();
+            EmployeeWage employeeWage = new EmployeeWage();
+            employeeWage.Empwage();
 
 
             Console.ReadLine();
