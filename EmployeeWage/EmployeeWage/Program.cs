@@ -15,6 +15,7 @@ namespace EmployeeWage
             EmployeeWage employeeWage = new EmployeeWage();
             employeeWage.Empwage();
             PartTime.EmployeeWage();
+            EmployeeSwitch.EmployeeSwitch1();
 
 
             Console.ReadLine();
